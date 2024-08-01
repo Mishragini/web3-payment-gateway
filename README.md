@@ -13,7 +13,6 @@ A decentralized payment gateway allowing users to purchase courses using Ethereu
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14+)
-- [Truffle](https://www.trufflesuite.com/truffle) (v5+)
 - [MetaMask](https://metamask.io/) (browser extension)
 - Ethereum test network (e.g., [Sepolia](https://sepolia.dev/))
 
