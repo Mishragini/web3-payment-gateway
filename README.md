@@ -39,7 +39,7 @@ A decentralized payment gateway allowing users to purchase courses using Ethereu
 1. Start the React frontend:
     ```sh
     cd client
-    npm start
+    npm run dev
     ```
 
 3. Open `http://localhost:5173` and connect MetaMask to the Sepolia network.
@@ -49,7 +49,8 @@ A decentralized payment gateway allowing users to purchase courses using Ethereu
 1. Start the backend server:
     ```sh
     cd centralized-backend
-    npm start
+    tsc -b
+    node dist/index.js
     ```
 
 ## Technologies Used
